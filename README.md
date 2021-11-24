@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on my Discord bot list [**Moonbots**](https://ocean.cx/)
+- 🔭 I’m currently working on my Discord bot [**ImBot**](https://discord.gg/)
 - 🌱 Currently learning Java
 - 🤔 Looking for help with Javascript
 
